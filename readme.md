@@ -37,3 +37,11 @@ Export what you wrote as ".docx"
 ![image.png](https://tva1.sinaimg.cn/large/006xRaCrgy1gdj652ck0yj328717c1kx.jpg)
 
 **Enjoy & have fun!**
+
+## 💖LICENSE & Acknowledgement
+
+GNU General Public License v3.0
+
+Thanks to the web version developers:
+https://github.com/maebert/themostdangerouswritingapp
+
