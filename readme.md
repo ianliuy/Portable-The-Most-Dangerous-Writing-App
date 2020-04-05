@@ -3,7 +3,7 @@
 [![release](https://img.shields.io/github/v/release/yiyangiliu/Portable-The-Most-Dangerous-Writing-App?color=important)](https://github.com/yiyangiliu/Portable-The-Most-Dangerous-Writing-App/releases/tag/v1.0)
 
 
-## Introducing
+## 🤞Introducing
 
 *The Most Dangerous Writing App* is designed to get you into a state of flow. If you stop typing for more than five seconds, all progress will be lost.
 
@@ -14,7 +14,7 @@ Set a time goal before you start writing, such as five minutes, which means that
 [有哪些能玩上一天的网站？ - YorN的回答 - 知乎 (In Chinese)](
  https://www.zhihu.com/question/380741546/answer/1116841377)
 
-## Getting Start
+## 📌Getting Start
 
 User Interface
 
