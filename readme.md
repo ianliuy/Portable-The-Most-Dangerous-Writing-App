@@ -14,7 +14,7 @@ Set a time goal before you start writing, such as five minutes, which means that
 [有哪些能玩上一天的网站？ - YorN的回答 - 知乎 (In Chinese)](
  https://www.zhihu.com/question/380741546/answer/1116841377)
 
-## 📌Getting Start
+## 📌Getting Started
 
 User Interface
 
